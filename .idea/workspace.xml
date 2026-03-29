@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="08299ef0-27f2-4cf0-9fb4-58575561d00f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/MergeIntervals/InsertIntervals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MergeIntervals/IntervalListIntersection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MergeIntervals/MergeIntervals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MergeIntervals/MinimumArrowToBurstBalloon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MergeIntervals/NonOverlappingIntervals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/ArrayPartition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/LargestNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/LargestParameterTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/MaximumProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/MinimumAbsoluteDiff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/MinimumDifference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoPointers/LongestMountain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoPointers/MergeTwoSortedArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoPointers/RemoveDuplicates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoPointers/SortColors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoPointers/SquareOfSortedArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoPointers/ThreeSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoPointers/ThreeSumClosest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoPointers/TwoSum.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>
